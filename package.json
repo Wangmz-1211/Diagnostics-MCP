@@ -25,16 +25,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/towa-wangmingzhuang/Diagnostics-MCP"
+    "url": "https://github.com/Wangmz-1211/Diagnostics-MCP"
   },
   "categories": [
     "Other"
   ],
-  "homepage": "https://github.com/towa-wangmingzhuang/Diagnostics-MCP#readme",
+  "homepage": "https://github.com/Wangmz-1211/Diagnostics-MCP#readme",
   "bugs": {
-    "url": "https://github.com/towa-wangmingzhuang/Diagnostics-MCP/issues"
+    "url": "https://github.com/Wangmz-1211/Diagnostics-MCP/issues"
   },
-  "qna": "https://github.com/towa-wangmingzhuang/Diagnostics-MCP/discussions",
+  "qna": "https://github.com/Wangmz-1211/Diagnostics-MCP/discussions",
   "icon": "icon.png",
   "galleryBanner": {
     "color": "#1e1e1e",
